@@ -45,10 +45,8 @@ The primary objective is to recommend the **top three cities in India** for open
 
 ## 🛠️ Tools & Technologies Used
 
-- Python (Pandas, NumPy)  
 - SQL  
-- Power BI  
-- Excel  
+
 
 ---
 
